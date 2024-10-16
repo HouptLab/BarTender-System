@@ -1,0 +1,9 @@
+[submodule "BarTender"]
+	path = BarTender
+	url = https://github.com/HouptLab/BarTender
+[submodule "PointOfScale"]
+	path = PointOfScale
+	url = https://github.com/HouptLab/PointOfScale
+[submodule "BarTab"]
+	path = BarTab
+	url = https://github.com/HouptLab/BarTab
