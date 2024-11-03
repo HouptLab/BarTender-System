@@ -6,7 +6,7 @@ A video walkthrough of the system in use is at: https://youtu.be/3O_7y73_KkQ .  
 The BarTender system comprises 4 parts:
 
 1. the BarTender app for Macintosh that organizes experiments, and collects weights of barcoded items such as water bottles or food jars;
-2. the PointOfScale app for iPad that collects body weights of animals vis a Bluetooth scale
+2. the PointOfScale app for iPad that collects body weights of animals via a Bluetooth scale
 3. a Firebase cloud database in which daily data is stored
 4. the BarTab framework for the web that displays and summarizes the collected data across an experiment
 
