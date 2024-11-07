@@ -1,7 +1,7 @@
 # BarTender-System
 Meta repository for code accompanying the paper "BarTender: A system for recording intakes and body weights in ingestive behavior experiments," by Houpt, Houpt, and Cassell-Erquiaga.
 
-A video walkthrough of the system in use is at: https://youtu.be/3O_7y73_KkQ .  A description of the system and components is also provided on the Houpt Lab wiki at: https://wiki.houptlab.org/wiki/BarTender_System. 
+A video walkthrough of the system in use is at: https://youtu.be/3O_7y73_KkQ.  A description of the system and components is also provided on the Houpt Lab wiki at: https://wiki.houptlab.org/wiki/BarTender_System. 
 
 The BarTender system comprises 4 parts:
 
@@ -18,11 +18,10 @@ This individual repositories are at:
 
 Clone using `--recurse-submodules`:
 
-	git clone --recurse-submodules https://github.com/HouptLab/MetaTest
+	git clone --recurse-submodules https://github.com/HouptLab/BarTender-System
 
- 
 Installation README's are provided in each app's submodule linked above.
 
 Details of the Google Firebase realtime database are at https://firebase.google.com. 
 
-For more information, contact Dr. Tom Houpt at houpt@bio.fsu.edu .
+For more information, contact Dr. Tom Houpt at houpt@bio.fsu.edu.
