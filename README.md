@@ -1,5 +1,8 @@
 # BarTender-System
-Meta repository for code accompanying the paper "BarTender: A system for recording intakes and body weights in ingestive behavior experiments," by Houpt, Houpt, and Cassell-Erquiaga.
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14419820.svg)](https://doi.org/10.5281/zenodo.14419820)
+
+Meta repository for code accompanying the paper ["BarTender: A system for recording intakes and body weights in ingestive behavior experiments," by Houpt, Houpt, and Cassell-Erquiaga](https://doi.org/10.1016/j.physbeh.2024.114783).
 
 A video walkthrough of the system in use is at: https://youtu.be/3O_7y73_KkQ.  A description of the system and components is also provided on the Houpt Lab wiki at: https://wiki.houptlab.org/wiki/BarTender_System. 
 
